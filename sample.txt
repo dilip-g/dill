@@ -1,5 +1,5 @@
 
-master master branch
+master branch
 
 first repository
 secod
